@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Assignment1": {
+      "commandName": "Project",
+      "commandLineArgs": "server"
+    }
+  }
+}
